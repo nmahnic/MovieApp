@@ -12,3 +12,5 @@ class MovieFragment : Fragment(R.layout.fragment_movie) {
         super.onViewCreated(view, savedInstanceState)
     }
 }
+
+//Hola
