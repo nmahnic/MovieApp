@@ -1,10 +1,8 @@
-package com.nicomahnic.movieapp
+package com.nicomahnic.movieapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-
-// API KEY
-// 44b2d7f8d7950335502b8c5d180b9ea0
+import com.nicomahnic.movieapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
